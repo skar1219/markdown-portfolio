@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# LUGARES DONDE COMER 
+1. MARGALITAS
+2. PIZZAS ARMANDOS
+3. PLAZA JARDIN
+   1. ROBIN FOOD
+   2. BURGER KING
